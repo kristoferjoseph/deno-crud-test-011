@@ -1,0 +1,11 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "Begin deno CRUD example app",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "dependencies": {
+    "@architect/sandbox": "^3.4.1"
+  }
+}
